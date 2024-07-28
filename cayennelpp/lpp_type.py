@@ -45,6 +45,8 @@ class LppType(object):
                  [False, False, False]),
         136:    ('Location', [3, 3, 3], [10000, 10000, 100],
                  [True, True, True]),
+        137: ('Location', [4, 4, 3], [1000000, 1000000, 100],
+              [True, True, True]),
         142:    ('Switch', [1], [1], [False])
     }
 
